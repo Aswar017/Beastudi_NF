@@ -1,0 +1,49 @@
+.row{
+  padding: 30px;
+}
+.row img{
+  width: 500px;
+  height: 250px;
+}
+nav{
+  padding: 0px 150px 0px 120px;
+}
+.body{
+  font: roboto;
+  size : 20px;
+  color: #707070;
+  padding-top: 20px;
+}
+.body img{
+  padding-top: 20px;
+}
+.thumbnail{
+  height: 200px;
+}
+.thumbnail img{
+  width: 320px;
+  height: 190px;
+}
+.collapse navbar-collapse{
+  position: absolute;
+}
+h2{
+  color: #139BF5;
+}
+.berita h2{
+  padding-top: 10px;
+}
+hr{
+  width: 250px;
+  border-top: 2px solid #666;
+}
+.card-body h2{
+  text-align: center;
+}
+
+footer{
+  background-color: #c8c8c8;
+  font-size: #000000;
+  font-family: "roboto";
+  padding-top: 50px;
+}
